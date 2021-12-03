@@ -1,4 +1,4 @@
-###Hi, my name is Colby Ryan!
+### Hi, my name is Colby Ryan!
 
 I am currently enrolled at Nashville Software School and will be graduating in February 2022!
 
