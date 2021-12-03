@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hey There! 👋
+
+My name is Colby Ryan and I am currently enrolled at Nashville Software School! 
+
+I will be graduating in February 2022!
+
+### We Have Been Learning 
+  - HTML/CSS
+  - Javascript
+  - React
+  - JSON
+  - C#/.NET
+  - SQL
+  - Firebase
+
+A good way to reach me would be my [website!](http://colbyryan.github.io/personal-website)
+
 
 <!--
 **colbyryan/colbyryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
