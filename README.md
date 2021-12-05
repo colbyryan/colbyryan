@@ -11,7 +11,7 @@ I am currently enrolled at Nashville Software School and will be graduating in F
   - SQL
   - Firebase
 
-A good way to reach me would be my [website!](http://colbyryan.github.io/personal-website)
+A good way to reach me would be on my [website!](http://colbyryan.github.io/personal-website) in the contact section!
 
 
 <!--
