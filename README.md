@@ -8,7 +8,7 @@ I am currently enrolled at Nashville Software School and will be graduating in F
   - React
   - JSON
   - C#/.NET
-  - SQL
+  - SQL Server
   - Firebase
 
 A good way to reach me would be on my [website](http://colbyryan.github.io/personal-website) in the contact section!
