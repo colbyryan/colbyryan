@@ -1,6 +1,6 @@
 ### Hi, my name is Colby Ryan!
 
-I am currently enrolled at Nashville Software School and will be graduating in February 2022!
+I am a Junior Software Developer at Stage Front!
 
 #### I Have Been Learning 
   - HTML/CSS
