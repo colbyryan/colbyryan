@@ -1,6 +1,5 @@
 ### Hi, my name is Colby Ryan!
 
-I am a Junior Software Developer at Stage Front!
 
 #### I Have Been Learning 
   - HTML/CSS
