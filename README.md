@@ -1,14 +1,16 @@
 ### Hi, my name is Colby Ryan!
 
 
-#### I Have Been Learning 
+#### What I have been working on 
   - HTML/CSS
   - Javascript
   - React
   - JSON
   - C#/.NET
   - SQL Server
-  - Firebase
+  - Vue.js
+  - Typescript
+  - Flutter
 
 A good way to reach me would be on my [website](http://colbyryan.github.io/personal-website) in the contact section!
 
