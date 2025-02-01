@@ -2,17 +2,15 @@
 
 
 #### What I have been working on 
-  - HTML/CSS
-  - Javascript
-  - React
+  - Next.js
+  - React.js
+  - Node.js
   - JSON
   - C#/.NET
   - SQL Server
   - Vue.js
   - Typescript
-  - Flutter
   - Tailwind
-  - Bootstrap
 
 A good way to reach me would be on my [website](http://colbyryan.github.io/personal-website) in the contact section!
 
