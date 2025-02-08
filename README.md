@@ -1,18 +1,15 @@
-### Hi, my name is Colby Ryan!
 
-
-#### What I have been working on 
-  - Next.js
-  - React.js
-  - Node.js
-  - JSON
+### What I have been working on 
+  - Next.js using React Typescript PostgresSQL and Prisma
+  - AWS
   - C#/.NET
   - SQL Server
   - Vue.js
-  - Typescript
   - Tailwind
 
-A good way to reach me would be on my [website](http://colbyryan.github.io/personal-website) in the contact section!
+Here is my most recent [project](http://colbyryan.github.io/personal-website) I have been working on!
+
+Add me on [LinkedIN](https://www.linkedin.com/in/colbyrryan/)
 
 
 <!--
