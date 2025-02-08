@@ -7,7 +7,7 @@
   - Vue.js
   - Tailwind
 
-Here is my most recent [project](http://colbyryan.github.io/personal-website) I have been working on!
+Here is my most recent [project](https://trade-tap.vercel.app/) I have been working on!
 
 Add me on [LinkedIN](https://www.linkedin.com/in/colbyrryan/)
 
